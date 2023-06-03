@@ -4,7 +4,7 @@
 
 1.[Introducción](https://github.com/anamontejo95/Autentificacion-FreeRadius/blob/main/introduccion.md) 
 
-2.[Access Point]  
+2.[Access Point](https://github.com/anamontejo95/Autentificacion-FreeRadius/blob/main/ap.md) 
 
 3.[Servidor FreeRadius]  
 
