@@ -6,7 +6,7 @@
 
 2.[Access Point](https://github.com/anamontejo95/Autentificacion-FreeRadius/blob/main/ap.md) 
 
-3.[Servidor FreeRadius]  
+3.[Servidor FreeRadius](https://github.com/anamontejo95/Autentificacion-FreeRadius/blob/main/freeradius.md) 
 
 4.[Conexión FreeRadius con el Punto de Acceso]  
 
