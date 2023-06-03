@@ -47,3 +47,12 @@ En el fichero clients.conf vamos a configurar al cliente que es el punto de acce
 Tenemos que volver al punto de acceso para terminar su configuración vinculándolo con el servidor que ya tenemos preparado. Para ello podemos acceder con nuestra navegador a la página del punto de acceso sin necesidad de cable ya que ahora si conocemos su ip.  
 En el apartado Wireless Security eligo la opción WPA/WPA2 - Enterprise. Le indico el tipo de encriptación (AES), la IP del servidor y la clave que comparten.  
 ![a](https://github.com/anamontejo95/Autentificacion-FreeRadius/blob/main/imagenes/accesspoint/4.png)
+
+## Radtest  
+
+Podemos hacer una prueba desde el propio servidor para comprobar que está funcionando correctamente con el comando:  
+
+>>radtest ana montejo 192.168.1.254 1812 Rodrigo2023!
+>>radtest usuario contraseña ip-access-point puerto contraseña-radius-ap  
+
+![a](https://github.com/anamontejo95/Autentificacion-FreeRadius/blob/main/imagenes/freeradius/6.png)
