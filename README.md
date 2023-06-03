@@ -10,6 +10,6 @@
 
 4.[Activación de Registro](https://github.com/anamontejo95/Autentificacion-FreeRadius/blob/main/registro.md)
 
-6.[Prueba]  
+6.[Prueba](https://github.com/anamontejo95/Autentificacion-FreeRadius/blob/main/comprobacion.md)
 
 ![a](https://github.com/anamontejo95/Autentificacion-FreeRadius/blob/main/imagenes/freeradius.png)
