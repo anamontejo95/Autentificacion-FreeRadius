@@ -29,3 +29,21 @@ Vamos a la carpeta donde se encuentran los ficheros de configuración de este se
 En el fichero users vamos a definir los usuarios que podrán tener acceso así como sus contraseñas para cada uno de ellos.  
 
 ![a](https://github.com/anamontejo95/Autentificacion-FreeRadius/blob/main/imagenes/freeradius/4.png)
+
+Podemos comprobar que el puerto de escucha por defecto (1812) esté abierto y escuchando con el comando:  
+
+>>ss -ln  
+
+![a](https://github.com/anamontejo95/Autentificacion-FreeRadius/blob/main/imagenes/freeradius/5%20ss%20-ln.png)  
+
+## Fichero Clients  
+
+En el fichero clients.conf vamos a configurar al cliente que es el punto de acceso. Para ello introducimos su IP y la contraseña que compartirán el servidor FreeRadius y el Access Point.  
+
+![a](https://github.com/anamontejo95/Autentificacion-FreeRadius/blob/main/imagenes/freeradius/5.png)  
+
+## Access Point  
+
+Tenemos que volver al punto de acceso para terminar su configuración vinculándolo con el servidor que ya tenemos preparado. Para ello podemos acceder con nuestra navegador a la página del punto de acceso sin necesidad de cable ya que ahora si conocemos su ip.  
+En el apartado Wireless Security eligo la opción WPA/WPA2 - Enterprise. Le indico el tipo de encriptación (AES), la IP del servidor y la clave que comparten.  
+![a](https://github.com/anamontejo95/Autentificacion-FreeRadius/blob/main/imagenes/accesspoint/4.png)
