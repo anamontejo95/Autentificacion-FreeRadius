@@ -8,9 +8,7 @@
 
 3.[Servidor FreeRadius](https://github.com/anamontejo95/Autentificacion-FreeRadius/blob/main/freeradius.md)  
 
-4.[Activación de Registro]
-
-5.[Conexión FreeRadius con el Punto de Acceso]  
+4.[Activación de Registro](https://github.com/anamontejo95/Autentificacion-FreeRadius/blob/main/registro.md)
 
 6.[Prueba]  
 
