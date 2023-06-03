@@ -1,6 +1,9 @@
 # Access Point  
 
 Para esta práctica voy a usar un Punto de Acceso de la marca TP-LINK, el modelo TL-WA801N.  
+
+![a](https://github.com/anamontejo95/Autentificacion-FreeRadius/blob/main/imagenes/ap.jpg)
+
 Comienzamos conectando el Punto de Acceso a la corriente y mediante el cable Ethernet lo conecto a mi portatil para poder acceder a su configuración. 
 Una vez dentro lo primero que hago es elegir el modo de operación, en mi caso elijo el modo Punto de Acceso que es el que me interesa para llevar a cabo esta práctica.  
 
