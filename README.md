@@ -6,10 +6,12 @@
 
 2.[Access Point](https://github.com/anamontejo95/Autentificacion-FreeRadius/blob/main/ap.md) 
 
-3.[Servidor FreeRadius](https://github.com/anamontejo95/Autentificacion-FreeRadius/blob/main/freeradius.md) 
+3.[Servidor FreeRadius](https://github.com/anamontejo95/Autentificacion-FreeRadius/blob/main/freeradius.md)  
 
-4.[Conexión FreeRadius con el Punto de Acceso]  
+4.[Activación de Registro]
 
-5.[Prueba]  
+5.[Conexión FreeRadius con el Punto de Acceso]  
+
+6.[Prueba]  
 
 ![a](https://github.com/anamontejo95/Autentificacion-FreeRadius/blob/main/imagenes/freeradius.png)
